@@ -9,7 +9,7 @@ I'm a passionate 18yo 🇫🇷 student who loves software developement and hardw
 - OSs : Windows 11 pro with WSL Debian and Arch Linux 
 
 ## 📊 Wakatime Stats
-[![skitou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chianti-ga&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![skitou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skitou&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 GitHub Stats
 [![skitou's GitHub stats](https://github-readme-stats.vercel.app/api?username=chianti-ga&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)

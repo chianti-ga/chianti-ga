@@ -4,7 +4,7 @@
 I'm a passionate 18yo 🇫🇷 student who loves software developement and hardware projects. I enjoy working with various technologies and exploring new tools to enhance my skills. Currently, I'm focused on learning Rust and Barebone programming.
 
 ## 🛠️ Technologies and Tools
-- Programming Languages: Java, C, Rust (learning), HTML, JS and TS
+- Programming Languages: Java, C, Rust (learning), HTML, JS and TS (a bit of )
 - Tools and Software: JetBrains IDE Suit, Tmux with Oh My Zsh and containers technologies such as Docker, Podman and Kubernetes.
 - OSs : Windows 11 pro with WSL Debian (home) and Arch Linux (laptop)
 

@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate 19-year-old 🇫🇷 student who loves software development and hardware projects. I enjoy working with various technologies and exploring new tools to enhance my skills.
+I'm a passionate 20-year-old 🇫🇷 student who loves software development and hardware projects. I enjoy working with various technologies and exploring new tools to enhance my skills.
 I'm currently in an apprenticeship at Subatech (CNRS/IN2P3) alongside my studies at the IUT in Nantes.
 
 ## 🛠️ Technologies and Tools

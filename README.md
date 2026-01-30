@@ -13,11 +13,11 @@ I'm currently in an apprenticeship at Subatech (CNRS/IN2P3) alongside my studies
 
 ## 📊 Wakatime Stats
 
-[![chianti_ga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chianti_ga&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime](./profile/wakatime.svg)
 
 ## 📊 GitHub Stats
 
-[![chianti-ga's GitHub stats](https://github-readme-stats.vercel.app/api?username=chianti-ga&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
 ## 🤝 Contact Me
 

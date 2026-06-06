@@ -848,7 +848,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java - 498 hrs 19 mins
+        Java - 498 hrs 23 mins
       </text>
     </g>
   
@@ -1051,7 +1051,7 @@
     <g transform="translate(230, 375)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GitIgnore file - 3 hrs 52 mins
+        GitIgnore file - 3 hrs 53 mins
       </text>
     </g>
   
